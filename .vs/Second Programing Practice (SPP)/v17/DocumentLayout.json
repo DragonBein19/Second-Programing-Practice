@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|c:\\users\\administrator\\source\\repos\\second programing practice (spp)\\second-programing-practice\\second programing practice (spp)\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\loginfromspp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\loginfromspp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\teacher_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\teacher_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\stud_from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\stud_from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\teacher_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\teacher_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\adding_a_new_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\adding_a_new_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\second programing practice (spp)\\db_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCA00D8-CFAA-428B-B11F-FDC2DDBF85A7}|Second Programing Practice (SPP)\\Second Programing Practice (SPP).csproj|solutionrelative:second programing practice (spp)\\db_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DB_Update.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\DB_Update.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\DB_Update.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\DB_Update.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\DB_Update.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T07:47:23.076Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginFromSPP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\LoginFromSPP.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\LoginFromSPP.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second Programing Practice (SPP)\\LoginFromSPP.cs [Design]",
+              "RelativeToolTip": "..\\Second Programing Practice (SPP)\\LoginFromSPP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:18:25.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrator_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAMwPoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T14:06:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Adding_a_new_user.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Adding_a_new_user.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Adding_a_new_user.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Adding_a_new_user.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\Adding_a_new_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:32:00.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\DB.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\DB.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\DB.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T21:52:23.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Administrator_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Administrator_Form.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Administrator_Form.cs [Design]",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\Administrator_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T16:44:45.793Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher_Form.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAFgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:42:34.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stud_From.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Stud_From.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Stud_From.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Stud_From.cs",
+              "RelativeToolTip": "Second Programing Practice (SPP)\\Stud_From.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T20:39:24.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Teacher_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second-Programing-Practice\\Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "RelativeDocumentMoniker": "Second Programing Practice (SPP)\\Teacher_Form.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Second Programing Practice (SPP)\\Second Programing Practice (SPP)\\Teacher_Form.cs [Design]",
+              "RelativeToolTip": "..\\Second Programing Practice (SPP)\\Teacher_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:43:40.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

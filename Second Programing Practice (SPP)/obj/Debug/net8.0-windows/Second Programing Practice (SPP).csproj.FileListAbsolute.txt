@@ -1,0 +1,37 @@
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\Second Programing Practice (SPP).exe
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\Second Programing Practice (SPP).deps.json
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\Second Programing Practice (SPP).runtimeconfig.json
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\Second Programing Practice (SPP).pdb
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\refint\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).pdb
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\ref\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.LoginFromSPP.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Stud_From.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second P.5E32312B.Up2Date
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Teacher_Form.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Administrator_Form.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Administrator_Form.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.LoginFromSPP.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Stud_From.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second_Programing_Practice__SPP_.Teacher_Form.resources
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\refint\Second Programing Practice (SPP).dll
+C:\Users\Administrator\source\repos\Second Programing Practice (SPP)\Second-Programing-Practice\Second Programing Practice (SPP)\obj\Debug\net8.0-windows\Second Programing Practice (SPP).pdb
